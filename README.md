@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datahattrick
-- 👀 I’m interested in data engineering and the journey of machine learning and analytical development
-- 🌱 I’m currently learning to improve my skills in design and CI/CD.
+- 👀 I’m interested in devops engineering, I manage large environments of self-hosted kubernetes and various other software.
+- 🌱 I’m currently learning to improve my skills in design, CI/CD and GO!
 - 📫 Reach me at datahattrick@gmail.com
 
 <!---
